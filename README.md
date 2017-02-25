@@ -1,5 +1,6 @@
-# Deep Reinforcement Learning with Human Checkpoint Replay
+# Deep Reinforcement Learning with Human experience
 
-Implementation of Deep Reinforcement Learning with Human Checkpoint Replay, a workshop paper under review at EGPAI 2016 - Evaluating General-Purpose AI, an ECAI 2016 Workshop (http://users.dsic.upv.es/~flip/EGPAI2016/)
-
+Implementation of Deep Reinforcement Learning with Human Checkpoint Replay
 Uses the Tensorflow DQN implementation found here: https://github.com/gliese581gg/DQN_tensorflow
+install python , numpy , tf and required dependencies.
+have both nature and nips implementation of DQN.
